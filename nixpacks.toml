@@ -1,0 +1,5 @@
+[phases.setup]
+aptPackages = [
+  "build-essential",
+  "portaudio19-dev"
+]
