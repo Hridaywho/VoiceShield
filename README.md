@@ -104,7 +104,7 @@ VoiceShield/
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/your-username/voiceshield.git
+   git clone https://github.com/Hridaywho/voiceshield.git
    cd voiceshield
    python -m venv venv
 
